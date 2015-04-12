@@ -15,6 +15,6 @@ RjsKeys.modules ++= Seq(
 libraryDependencies ++= Seq(
   "org.webjars" % "jquery" % "2.1.3",
   "org.webjars" %% "webjars-play" % "2.3.0-2",
-  "org.webjars" % "react" % "0.12.2",
-  "org.webjars" % "react-bootstrap" % "0.13.2"
+  "org.webjars" % "react" % "0.13.1",
+  "org.webjars" % "react-bootstrap" % "0.19.1"
 )
